@@ -1,5 +1,7 @@
-pandas
+﻿pandas
 scikit-learn
 numpy
 matplotlib
+seaborn
 jupyterlab
+nbformat
